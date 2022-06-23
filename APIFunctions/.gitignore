@@ -262,10 +262,3 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-APIFunctions/Properties/ServiceDependencies/isoftfaasdotnet - Zip Deploy/profile.arm.json
-APIFunctions/Properties/ServiceDependencies/isoftfaasdotnet - Zip Deploy/storage1.arm.json
-APIFunctions/Properties/ServiceDependencies/local/storage1.arm.json
-APIFunctions/host.json
-APIFunctions/Properties/serviceDependencies.json
-APIFunctions/Properties/serviceDependencies.local.json
-APIFunctions/Properties/serviceDependencies.isoftfaasdotnet - Zip Deploy.json
